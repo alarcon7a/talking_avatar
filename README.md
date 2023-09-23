@@ -8,6 +8,7 @@ Este repositorio contiene una notebook para crear y entrenar un avatar con Intel
 - ElevenLabs voice generation o cualquier otro generador text-to-speech
 - Gradio
 - API con D-id y HeyGen
+- Reemplaza las keys con tus propias generaciones o voces
 
 ## Sigue los siguiente pasos:
 
